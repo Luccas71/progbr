@@ -1,0 +1,15 @@
+html {
+    font-size: 25px;
+}
+
+#pai {
+    font-size: 15px;
+}
+
+#ex1 {
+    font-size: 4em;
+}
+
+#ex2 {
+    font-size: 4rem;
+}

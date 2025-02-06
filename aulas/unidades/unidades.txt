@@ -1,0 +1,19 @@
+# Unidades Absolutas:
+
+cm = centimetros
+mm = milimetros
+in = polegada (1in = 96px = 25.4mm)
+px * pixel (1px = 1/96 of in)
+pt = pontos (1pt = 1/72 of in)
+pc = pica (1pc - 12pt)
+
+# Unidades Relativas:
+=> referentes ao elemento pai:
+    % = porcento
+=> referentes ao tamanho da tela:
+    vh = viewport height
+    vw = viewport width
+
+=> fonte relativa:
+    rem = root element (<html>)
+    em = element (elemento pai)
